@@ -112,27 +112,27 @@ Uno Z-Score superiore a 1.96 significa che il valore cade fuori dal 95% dei casi
 
 ## Catalogo delle Anomalie
 
-### 🤖 Bot Attack
+### Bot Attack
 **Cosa succede:** Le sessioni esplodono, il tasso di conversione scende a 0%, il bounce rate raggiunge il 100%.
 **Impatto di business:** Stai pagando CPC/CPM per traffico non umano che non convertirà mai. Con un budget di €10k/mese, anche il 20% di traffico bot significa €2.000 sprecati.
 **Protocollo:** AZIONE IMMEDIATA — revisione della spesa pubblicitaria.
 
-### 📡 Tracking Break
+### Tracking Break
 **Cosa succede:** Le sessioni su un canale attivo crollano a quasi zero. Il segnale sparisce completamente.
 **Impatto di business:** Ogni decisione di ottimizzazione presa mentre il tracciamento è rotto si basa su dati falsi. Sposti budget su canali che sembrano performare ma non performano.
 **Protocollo:** AZIONE IMMEDIATA — verifica il firing del tag GTM e il data stream GA4.
 
-### 👻 Ghost 404
+### Ghost 404
 **Cosa succede:** Il volume di traffico è normale, ma la revenue è zero e il bounce rate è al 100%.
 **Impatto di business:** Ogni click a pagamento atterra su una pagina rotta. Il budget della campagna continua a girare; le conversioni sono zero.
 **Protocollo:** AZIONE IMMEDIATA — controlla l'URL della landing page e le regole di redirect.
 
-### 📈 PPC Spike
+### PPC Spike
 **Cosa succede:** Le sessioni aumentano del 300%+ senza un aumento proporzionale di revenue o conversioni.
 **Impatto di business:** Un errore nella strategia di bidding o un bug della piattaforma sta bruciando il budget giornaliero in poche ore invece di 24h. Lo scopri a fine giornata — troppo tardi.
 **Protocollo:** REPORT SETTIMANALE — revisione della strategia di bidding e impatto sul ROAS.
 
-### 💱 Currency / Tax Glitch
+### Currency / Tax Glitch
 **Cosa succede:** Il numero di acquisti è normale, ma la revenue è 10 volte il valore atteso.
 **Impatto di business:** Il management prende decisioni strategiche su numeri gonfiati — allocazione budget, forecast, obiettivi — tutti basati su dati corrotti.
 **Protocollo:** AZIONE IMMEDIATA — audit del layer di validazione dati nel checkout.
