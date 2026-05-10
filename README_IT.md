@@ -323,7 +323,7 @@ Competenze dimostrate: estrazione e modellazione dati su larga scala (BigQuery +
 
 ## Autrice
 
-**Francesca**
+**Francesca Monte**
 Marketing Data Analyst | Digital Analytics | BigQuery | Power BI | Python
 
 [LinkedIn](https://www.linkedin.com/in/francesca-monte/) · [GitHub](https://github.com/francescaetnom-wq)

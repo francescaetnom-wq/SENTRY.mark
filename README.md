@@ -336,7 +336,7 @@ Skills demonstrated: data extraction and modeling at scale (BigQuery + SQL), sta
 
 ## Author
 
-**Francesca**
+**Francesca Monte**
 Marketing Data Analyst | Digital Analytics | BigQuery | Power BI | Python
 
 [LinkedIn](https://www.linkedin.com/in/francesca-monte/) · [GitHub](https://github.com/francescaetnom-wq)
