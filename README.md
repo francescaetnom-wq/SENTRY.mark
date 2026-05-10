@@ -112,27 +112,27 @@ A Z-Score above 1.96 means the value falls outside 95% of normal cases — there
 
 ## Anomaly Catalog
 
-### 🤖 Bot Attack
+### Bot Attack
 **What happens:** Sessions spike massively, conversion rate drops to 0%, bounce rate hits 100%.
 **Business impact:** You are paying CPC/CPM for non-human traffic that will never convert. With a €10k/month budget, even 20% bot traffic means €2,000 wasted.
 **Protocol:** IMMEDIATE ACTION — flag for spending review.
 
-### 📡 Tracking Break
+### Tracking Break
 **What happens:** Sessions on an active channel drop to near zero. The signal disappears completely.
 **Business impact:** Every optimization decision made while tracking is broken is based on false data. You shift budget to channels that appear to perform but don't.
 **Protocol:** IMMEDIATE ACTION — verify GTM tag firing and GA4 data stream.
 
-### 👻 Ghost 404
+### Ghost 404
 **What happens:** Normal traffic volume arrives, but revenue is zero and bounce rate is 100%.
 **Business impact:** Every paid click lands on a broken page. The campaign budget keeps running; conversions are zero.
 **Protocol:** IMMEDIATE ACTION — check landing page URL and redirect rules.
 
-### 📈 PPC Spike
+### PPC Spike
 **What happens:** Sessions increase 300%+ without a proportional increase in revenue or conversions.
 **Business impact:** A bid strategy error or platform bug is burning the daily budget in hours instead of 24h. You discover it at end of day — too late.
 **Protocol:** WEEKLY REPORT — review bid strategy and ROAS impact.
 
-### 💱 Currency / Tax Glitch
+### Currency / Tax Glitch
 **What happens:** Purchase count is normal, but revenue is 10x the expected value.
 **Business impact:** Management makes strategic decisions on inflated numbers — budget allocation, forecasts, targets — all based on corrupted data.
 **Protocol:** IMMEDIATE ACTION — audit checkout data validation layer.
